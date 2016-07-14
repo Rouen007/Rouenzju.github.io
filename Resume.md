@@ -1,11 +1,11 @@
 ##Ang LU  
 2014.09 - 2017.03：3D Media Processing·  Zhejiang University                       ︳Master   ︳ 
-2010.09 - 2014.07：   Image Processing ·    Dalian University of Technology  ︳Bachelor︳
-18667045754 · luangss@zju.edu.cn       CAREER：   Software Engineer    ︳  
+2010.09 - 2014.07：   Image Processing ·    Dalian University of Technology        ︳Bachelor︳
+18667045754 · luangss@zju.edu.cn                   CAREER：   Software Engineer    ︳  
  
 ##Skills                  	Programming language: C/C++、Python，Familiar with the basic data structure & algorithm 
 Familiar with MySQL and the widely used machine learning and data mining techniques.
-##Research Experience
+#Research Experience
 ##The key theories and methods of 3D video visual quality enhancement
 (2015.03 –  present )      Software Engineer
 Content: Explore the key theories and corresponding theoretical mode of 3D video enhancement. 1. The theories and methods of enhancing the visual quality of 3D video; 2. Quality transmission model of 3D video; 3. The optimizing structural coding model of 3D video.
