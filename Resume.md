@@ -9,9 +9,11 @@ Familiar with MySQL and the widely used machine learning and data mining techniq
 ##The key theories and methods of 3D video visual quality enhancement
 (2015.03 –  present )      Software Engineer
 
-Content: Explore the key theories and corresponding theoretical mode of 3D video enhancement. 1. The theories and methods of enhancing the visual quality of 3D video; 2. Quality transmission model of 3D video; 3. The optimizing structural coding model of 3D video.
+###Content: 
+Explore the key theories and corresponding theoretical mode of 3D video enhancement. 1. The theories and methods of enhancing the visual quality of 3D video; 2. Quality transmission model of 3D video; 3. The optimizing structural coding model of 3D video.
 
-Responsibility: I am in charge of the field of 3D video quality enhancement. I proposed a distortion metric model to compress the depth map, which represent the geometry information of scene. The proposal metric utilize smaller storage to achieve better viewing experience. Compared with the state-of-art method, the proposed metric saves 20% of storage and reduce the computation complexity in addition. The related paper can be indexed in DCC 2016, which is the top conference of data compression. （C++）
+###Responsibility: 
+I am in charge of the field of 3D video quality enhancement. I proposed a distortion metric model to compress the depth map, which represent the geometry information of scene. The proposal metric utilize smaller storage to achieve better viewing experience. Compared with the state-of-art method, the proposed metric saves 20% of storage and reduce the computation complexity in addition. The related paper can be indexed in DCC 2016, which is the top conference of data compression. （C++）
 ##The computational model of binocular visual characteristic and 3D video processing and quality index
 (2014.06 - 2015.02)    Software Engineer
 
