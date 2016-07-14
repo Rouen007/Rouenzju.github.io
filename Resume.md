@@ -15,19 +15,26 @@ Responsibility: I am in charge of the field of 3D video quality enhancement. I p
 ##The computational model of binocular visual characteristic and 3D video processing and quality index
 (2014.06 - 2015.02)    Software Engineer
 
-Content: Build the model for binocular visual characteristic, and propose methods to promote visual experience quality of 3D video. 1. Build the binocular quality index platform; 2. Build the sharpness and comfort measure and process model based on monocular and binocular visual characteristic;   
+###Content: 
+Build the model for binocular visual characteristic, and propose methods to promote visual experience quality of 3D video. 1. Build the binocular quality index platform; 2. Build the sharpness and comfort measure and process model based on monocular and binocular visual characteristic;   
 
-Responsibility: I am in charge of the field of improving the visual experience quality. I implement a platform to stabilize the shaky 3D video based on the human visual system. My work focus on tracing the object, smoothing the trajectory, finding the correspondences in multi-views and depth based image rendering. （C++、Python）
+###Responsibility: 
+I am in charge of the field of improving the visual experience quality. I implement a platform to stabilize the shaky 3D video based on the human visual system. My work focus on tracing the object, smoothing the trajectory, finding the correspondences in multi-views and depth based image rendering. （C++、Python）
 
-##Classifying the Mandarin and the English sound                            (2015.04 - 2015.05)    Software Engineer
+##Classifying the Mandarin and the English sound                            
+(2015.04 - 2015.05)    Software Engineer
 
-Responsibility: By the literature research, I choose the openSMILE to extract the sound features. Also I explore the characteristic of both languages. And the classifier is trained by Adaboost algorithm, and I won the first in the whole institute. (Matlab)
+###Responsibility: 
+By the literature research, I choose the openSMILE to extract the sound features. Also I explore the characteristic of both languages. And the classifier is trained by Adaboost algorithm, and I won the first in the whole institute. (Matlab)
 
-##The Real time Rendering based on GPU                                        (2014.03 - 2014.06)     Software Engineer
+##The Real time Rendering based on GPU                                        
+(2014.03 - 2014.06)     Software Engineer
 
-Content: Change the original serial rendering algorithm into parallel algorithm, and implement it in GPU. And make it meet the function of real time rendering.  
+###Content: 
+Change the original serial rendering algorithm into parallel algorithm, and implement it in GPU. And make it meet the function of real time rendering.  
 
-Responsibility: I am in charge of the whole design of the parallel algorithm. And the function of real time rendering is implemented in GPU. Compared with the original scheme, it faster 20 times.（C++）
+###Responsibility: 
+I am in charge of the whole design of the parallel algorithm. And the function of real time rendering is implemented in GPU. Compared with the original scheme, it faster 20 times.（C++）
 
 ##Honors :  	National Scholarships（twice）、Special grade scholarship （three times）、Science and technology innovation scholarship（three times）、Excellent graduates of the state
 
